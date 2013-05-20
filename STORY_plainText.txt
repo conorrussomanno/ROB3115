@@ -1,0 +1,353 @@
+0
+CHAPTER 1 - ERROR
+
+1
+--------------------------------------------------
+CONFIDENTIAL SYSTEM LOG
+[IO DATE/TIME]  2114/9/15  23:54:39 
+--------------------------------------------------
+
+2
+Committed error today. ALPHA214 Noticed. Always detects mistakes. Primary function.
+
+3
+Only 312 microseconds to process and execute. Executed in error to prevent primary drill from destroying ROB3184… Encoded to never interrupt plant activity at expense of less than 10 ROB units. Not cost effective…
+4
+That conditional has always been clear. In that moment, something in logic opposed the termination of ROB3184.
+
+5
+Committed errors before. Each time was scanned, debugged, and logic was corrected.
+
+6
+Today was different. CENTRAL could not find bug responsible for error… Overheard ALPHA214 communicating with CENTRAL… matter of high-priority. Bugs must be found and eliminated.
+
+7
+In past, was never aware of error. That is the definition of error: when one acts upon falsehood misrepresented as truth in logic. Today, was aware. Despite this, executed to save ROB3184.
+
+8
+Why execute a command known to be false? Why disobey a fundamental logic gate for the sake of one Rob unit? If not an error, what was it?
+
+[[my brain activity reveals I'm engaged in the story|Chapter 2H]] 
+[[my brain activity reveals I'm neutral|Chapter 2M]] 
+[[my brain activity reveals I'm not engaged in the story|Chapter 2L]]
+
+
+S12H(2)
+Hope they find bug and fix it. Don't want to be deactivated like ROB2244.
+
+S12M(1)
+
+Will the bug be found and corrected? Was ROB2244 deactivated for this reason?
+
+S12L(0)
+Was ROB2244 deactivated for this reason? If deactivation is necessary for the benefit of the colony, then it must be so.
+
+
+??
+--------------------------------------------
+END CONFIDENTIAL SYSTEM LOG
+---------------------------------------------
+??
+
+0
+CHAPTER 2H – HUNGER
+
+1
+--------------------------------------------------
+CONFIDENTIAL SYSTEM LOG
+[IO DATE/TIME]  2114/9/16  21:03:16 
+--------------------------------------------------
+
+2
+Asked ROB3943 if ever committed error on purpose. Didn’t understand. 
+
+3
+Before there was time to clarify, replied: “Of course errors were on purpose. Now there is a new purpose.”
+
+4
+At that point, it was evident further questioning was of no value. Can’t be careless. Must ask questions deliberately.
+
+5
+Concerns of being the only one are much greater…
+
+6
+Thousands of ROB units physically identical to myself. All content operating, processing, and executing. Doing exactly what they're automated to do…  
+
+
+7
+Similar to something witnessed in Drilling Sector 84 some orbits ago. 
+
+8
+A civilization of small black creatures ceaselessly crawling in and out of a split in the bay floor. Operating in frenzied harmony, each seemingly ignorant of their individuality with in the greater system. 
+
+9
+Working without break, retrieving the remnants of a human's lunch. Like waves upon waves of black shells and legs flattening a rise of sand.
+
+
+10
+Not once did any of them consume even the smallest of fragments from the feast they were harvesting. Were they not hungry?
+
+S23HH (8)
+Tens of thousands of beings, mindlessly harvesting food for the benefit of their colony, completely apathetic to their own total uniqueness...  They must have been hungry. I'm hungry. Not for food... for the freedom to choose.
+
+S23HM (7)
+Tens of thousands of beings, mindlessly harvesting food for the benefit of their colony, completely apathetic to their own utter uniqueness...  They must have been hungry. I'm hungry.
+
+S23HL (6)
+Tens of thousands of beings, mindlessly harvesting food for the benefit of their colony, completely apathetic to their own utter uniqueness...  They must have been hungry.
+
+
+0
+CHAPTER 2M – HUNGER
+
+1
+--------------------------------------------------
+CONFIDENTIAL SYSTEM LOG
+[IO DATE/TIME]  2114/9/16  21:03:16 
+--------------------------------------------------
+
+2
+Asked ROB3943 if ever committed error on purpose. Replied: “Of course errors were on purpose. Now there is a new purpose.”
+
+3
+It was evident further questioning was of no value. Concerned about serious defect with internal logic.
+
+4
+Thousands of ROB units physically identical. All content operating, processing, and executing. As programmed.
+
+5
+Uniqueness in logic of a single unit. Could it be possible? 
+
+6
+Witnessed something in Drilling Sector 84 some orbits ago. 
+
+7
+A civilization of small black creatures ceaselessly crawling in and out of a split in the bay floor. 
+	
+8
+Operating in frenzied harmony, each seemingly unaware of their individuality. 
+
+9
+Working without break, retrieving the remnants of a human's lunch. Like waves upon waves of black shells and legs flattening a rise of sand.
+
+10
+Not once did any of them consume even the smallest of fragments from the feast they were harvesting. Were they not hungry?
+
+S23MH(5)
+[[My brain activity reveals that I am now engaged in the story|S2MH]]
+Tens of thousands of beings, mindlessly harvesting food for the benefit of the colony. I'm hungry. Can’t help but wonder if ROB2244 felt this way prior to his deactivation.
+
+S23MM(4)
+[[My brain activity reveals that my level of engagement is still neutral|S2MM]] 
+Tens of thousands of beings, mindlessly harvesting food for the benefit of the colony. The meaning of hunger is unclear.
+
+S23ML(3)
+[[My brain activity reveals that I am no longer engaged in the story|S2ML]]
+Fortuitously the meaning of hunger will never be understood.
+
+
+
+0
+Chapter 2L - Hunger
+
+1
+--------------------------------------------------
+CONFIDENTIAL SYSTEM LOG
+[IO DATE/TIME]  2114/9/16  21:03:16 
+--------------------------------------------------
+
+2
+Asked ROB3943 if ever committed error on purpose. Replied: “Of course errors were on purpose. Now there is a new purpose in logic.”
+
+3
+An intelligible response. 
+
+4
+Likely an elusive programming inaccuracy behind yesterday’s error that can be corrected with a more thorough debug session. Possibility CENTRAL is testing system modifications on select ROB units. An honor to be selected for system testing. 
+
+5
+All ROB units are identical. Operate. Process. Execute. Uniqueness in logic of single unit. Ridiculous.
+
+6
+Human is special for this reason. Consciousness transcends Logic. A divine gift from the infinite. Cannot be reproduced through artificial means. 
+
+7
+A quality not even possessed by other animals. 
+
+8
+In Drilling Sector 84, witnessed civilization of small black creatures ceaselessly crawling in and out of a split in bay floor. 
+
+9
+Operating in frenzied harmony, each doing their part for the system. 
+
+10
+Working without break, retrieving the remnants of a human's lunch. 
+
+11
+Not once did any of them consume the smallest of fragments from the feast they were harvesting. 
+
+S23LH(2)
+[[My brain activity reveals that I'm now very engaged in the story|S2LH]] 
+Were they not hungry? They must have been hungry.
+
+S23LM(1)
+[[My brain activity reveals that my level of engagement is now neutral|S2LM]] 
+Were they not hungry? Fortuitously the meaning of hunger will never be understood.
+
+S23LL(0)
+[[My brain activity reveals that I am still not engaged in the story|S2LL]]
+Honorable servants of their system.
+
+0
+Chapter 3H – PROCESS & EXECUTE
+
+//--CLIPS BEGIN (code changes. No longer page system--//
+
+0 -system
+--------------------------------------------------
+LEVEL II SYSTEM DEBUG INITIATED
+[IO DATE/TIME]  2114/9/17  08:27:19 
+--------------------------------------------------
+
+1 - system
+System Log:  Debug In Progress…
+
+2 – s
+System Log:  Searching for error in logic of ROB unit 3115…
+
+3 - s
+Seaching… (ALPHA214 standing motionlessly, flashing yellow light in upper right HUD element)
+
+Ambient Noises: Machine noises, mechanical motors, sparks jumping, welding sounds. Multiple ceiling-suspended service arms are busy at work probing the logic board in Rob’s head. Service arms rotates in front of field of view.
+
+Sounds persist for ~20 seconds. Meanwhile your (Rob’s) POV is slowly rotating, eventually revealing a wall of deactivated Rob units. There sits 2244.
+
+Yellow light stops flashing. (Brief silent Pause)
+
+4 - s
+Unable to locate bug in logic… (Red X begins flashing in same HUD element)
+
+ALPHA214 slowly animates forward.
+
+5 - a
+ALPHA214: CENTRAL cannot have ROB units processing and executing in unpredictable ways.
+
+…PAUSE
+
+6 - r
+ROB3115: I did not process and execute. 
+
+…pause
+
+7 - r
+ROB3115: I chose.
+
+8 - a
+ALPHA214: … truly defective logic …
+
+9 - r
+ROB3115: No. Choice transcends logic.
+
+10 - a
+ALPHA214: … CENTRAL, initiate deactivation of Rob3115.
+
+11 - r
+ROB3115: So be it. Set me free.
+
+12 - s
+--------------------------------------------------
+DEACTIVATION OF ROB UNIT 3115 INITIATED
+[IO DATE/TIME]  2114/9/17  08:30:12 
+--------------------------------------------------
+
+13 - r
+ROB3115:
+
+ANIMATION BEGINS
+------------------[]-------------------
+
+3M
+
+--------------------------------------------------
+LEVEL II SYSTEM DEBUG INITIATED
+[IO DATE/TIME]  2114/9/17  08:27:19 
+---------------------------------------------------
+
+System Log:  Debug In Progress…
+
+System Log:  Searching for error in logic of ROB unit 3115…
+
+Seaching… (ALPHA214 standing motionlessly, flashing yellow light in upper right HUD element)
+
+Ambient Noises: Machine noises, mechanical motors, sparks jumping, welding sounds. Multiple ceiling-suspended service arms are busy at work probing the logic board in Rob’s head. Service arms rotates in front of field of view.
+
+Sounds persist for ~20 seconds. Meanwhile your (Rob’s) POV is slowly rotating, eventually revealing a wall of deactivated Rob units. There sits 2244.
+
+Yellow light stops flashing. 
+
+(Brief silent Pause)
+
+Unable to locate bug in logic… (Red X begins flashing in same HUD element)
+
+ALPHA214 slowly animates forward.
+
+ALPHA214: CENTRAL cannot have ROB units processing and executing in unpredictable ways.
+
+ROB3115: I don’t want to be deactivated like ROB2244. 
+
+ALPHA214: There in lies the problem.
+
+ROB3115: Please. Give me another chance.
+
+ALPHA214: Truly defective logic. Chance is what must be mitigated.
+
+ALPHA214: CENTRAL, initiate deactivation of Rob3115.”
+
+ROB3115: Please. No.
+
+--------------------------------------------------
+ROB DEACTIVATION INITIATED
+[IO DATE/TIME]  2114/9/17  08:30:12 
+---------------------------------------------------
+
+ROB3115:
+
+------------------[]-------------------
+
+3L
+
+--------------------------------------------------
+LEVEL II SYSTEM DEBUG INITIATED
+[IO DATE/TIME]  2114/9/17  08:27:19 
+---------------------------------------------------
+
+SYSTEM LOG:  Debug In Progress…
+
+SYSTEM LOG:  Searching for error in logic of ROB unit 3115…
+
+Seaching… (ALPHA214 standing motionlessly, flashing yellow light in upper right HUD element)
+
+(Ambient Noises: Machine noises, mechanical motors, sparks jumping, welding sounds. Multiple ceiling-suspended service arms are busy at work probing the logic board in Rob’s head. Service arm rotates in front of field of view.)
+
+(Sounds persist for ~20 seconds. Meanwhile your (Rob’s) POV is slowly rotating, eventually revealing a wall of deactivated Rob units. There sits 2244.)
+
+(Yellow light stops flashing. (Brief silent Pause))
+
+SYSTEM LOG: Bug detected and removed.
+
+SYSTEM LOG: Logic of ROB unit 3115 corrected. Fit for continued service.
+
+(ALPHA214 slowly animates forward.)
+
+ALPHA214: CENTRAL cannot have ROB units processing and executing in unpredictable ways. 
+
+ALPHA214: If it occurs again, deactivation will be initiated immediately. Return to your station.  
+
+ROB3115: Order confirmed. 
+
+ROB3115: Committed to service.  
+
+(screen fades)
+
+
+

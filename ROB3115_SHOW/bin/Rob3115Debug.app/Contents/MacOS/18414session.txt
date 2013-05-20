@@ -1,0 +1,1 @@
+Time (Milliseconds), Device Number(1:MW,2:MS,3:BB), Signal Quality(0-100), Story Average Attention (0-100), Chapter Attention Value, Current Attention Value, Chapter(0,1,2), Page, Tier(0,1,2), Mode
